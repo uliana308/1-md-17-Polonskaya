@@ -1,5 +1,5 @@
 password = input("Введите пароль ")
-password_2 = input("Поддтвердите пароль ")
+password_2 = input("Подтвердите пароль ")
 if password == password_2:
     print("Пароль принят")
 else:
